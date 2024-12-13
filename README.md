@@ -1,4 +1,4 @@
-### ** Blog CMS with Authentication**
+### Blog CMS with Authentication
 
 This project involves building a blog CMS (Content Management System) where users can read, write, and manage blogs. It will have authentication to restrict certain features like writing blogs to logged-in users. The backend will use MongoDB for data storage.
 
